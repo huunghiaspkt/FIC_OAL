@@ -1,6 +1,10 @@
-# FIC Opensource Altium Library (OAL)
+# FIC Opensource Altium Library (FIC_OAL)
 ## Overview
-Welcome to the FIC Opensource Altium Library (OAL)! This repository contains a collection of component footprints and 3D models designed for use with Altium Designer.
+Welcome to the FIC Opensource Altium Library (FIC_OAL)! This repository contains a collection of component footprints and 3D models designed for use with Altium Designer.
+
+## Contributing
+Contributions are welcome! If you'd like to add to or improve the library:
+1. Please request components you need to be added to the library by creating an issue.
 
 ## Features
 - **Comprehensive Footprints**: Includes a variety of component footprints, designed for accuracy and manufacturability.
@@ -74,14 +78,6 @@ This convention ensures a consistent naming structure for all symbols in the lib
 
 ### 11. Power Components
 - Power Modules and Power ICs: `PWR_`
-
-## Contributing
-Contributions are welcome! If you'd like to add to or improve the library:
-
-1. Fork the repository.
-2. Make your changes and submit a pull request.
-3. Ensure that any new components follow the existing guidelines and naming conventions.
-4. Please request components you need to be added to the library by creating an issue.
 
 ## Feedback & Support
 
